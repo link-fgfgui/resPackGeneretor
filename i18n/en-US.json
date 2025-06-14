@@ -1,0 +1,78 @@
+[
+    {
+        "id": "choose.help.foot",
+        "translation": "Press Space to toggle selection, ↑/↓ to navigate options, Q to confirm.\nYou can also use the mouse to operate."
+    },
+    {
+        "id": "choose.muti.help.head",
+        "translation": "Select the desired character voice."
+    },
+    {
+        "id": "choose.single.help.head",
+        "translation": "Select the desired language interface."
+    },
+    {
+        "id": "choose.button.pg.prev",
+        "translation": "Prev"
+    },
+    {
+        "id": "choose.button.pg.next",
+        "translation": "Next"
+    },
+    {
+        "id": "choose.button.pg.ok",
+        "translation": "Confirm"
+    },
+    {
+        "id": "char.1yoshino",
+        "translation": "yoshino"
+    },
+    {
+        "id": "char.2mako",
+        "translation": "mako"
+    },
+    {
+        "id": "char.3murasame",
+        "translation": "murasame"
+    },
+    {
+        "id": "char.4lena",
+        "translation": "lena"
+    },
+    {
+        "id": "char.5koharu",
+        "translation": "koharu"
+    },
+    {
+        "id": "char.6roka",
+        "translation": "roka"
+    },
+    {
+        "id": "char.7mizuha",
+        "translation": "mizuha"
+    },
+    {
+        "id": "char.8rentarou",
+        "translation": "rentarou"
+    },
+    {
+        "id": "char.9genjurou",
+        "translation": "genjurou"
+    },
+    {
+        "id": "char.$yasuharu",
+        "translation": "yasuharu"
+    },
+    {
+        "id": "lang.zh-CN",
+        "translation": "Simplified Chinese"
+    },
+    {
+        "id": "lang.zh-TW",
+        "translation": "Traditional Chinese"
+    },
+    {
+        "id": "lang.en-US",
+        "translation": "English"
+    }
+]

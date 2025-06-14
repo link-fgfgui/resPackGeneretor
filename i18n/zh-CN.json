@@ -1,0 +1,78 @@
+[
+    {
+        "id": "choose.help.foot",
+        "translation": "按下空格切换选择状态, ↑/↓切换选择项, Q确定.\n你也可以使用鼠标来操作"
+    },
+    {
+        "id": "choose.muti.help.head",
+        "translation": "选择所需角色语音"
+    },
+    {
+        "id": "choose.single.help.head",
+        "translation": "选择所需语言界面"
+    },
+    {
+        "id": "choose.button.pg.prev",
+        "translation": "上一页"
+    },
+    {
+        "id": "choose.button.pg.next",
+        "translation": "下一页"
+    },
+    {
+        "id": "choose.button.pg.ok",
+        "translation": "确定"
+    },
+    {
+        "id": "char.1yoshino",
+        "translation": "朝武 芳乃"
+    },
+    {
+        "id": "char.2mako",
+        "translation": "常陆 茉子"
+    },
+    {
+        "id": "char.3murasame",
+        "translation": "从雨"
+    },
+    {
+        "id": "char.4lena",
+        "translation": "蕾娜 列支诺瑙尔"
+    },
+    {
+        "id": "char.5koharu",
+        "translation": "鞍马 小春"
+    },
+    {
+        "id": "char.6roka",
+        "translation": "马庭 芦花"
+    },
+    {
+        "id": "char.7mizuha",
+        "translation": "驹川 美津叶"
+    },
+    {
+        "id": "char.8rentarou",
+        "translation": "鞍马 廉太郎"
+    },
+    {
+        "id": "char.9genjurou",
+        "translation": "鞍马 玄十郎"
+    },
+    {
+        "id": "char.$yasuharu",
+        "translation": "朝武 安晴"
+    },
+    {
+        "id": "lang.zh-CN",
+        "translation": "简体中文"
+    },
+    {
+        "id": "lang.zh-TW",
+        "translation": "繁体中文"
+    },
+    {
+        "id": "lang.en-US",
+        "translation": "英文"
+    }
+]
